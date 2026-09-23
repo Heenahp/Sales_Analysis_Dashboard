@@ -1,7 +1,8 @@
 # 📊 Sales Dashboard in Excel
 
- ## Dataset Data used:self-made — sales dataset covering 2024–2025, used for practice and portfolio purposes.
- 
+## Dataset
+Data used: Synthetic dataset generated to simulate real-world sales patterns across regions, categories, and customer segments — created using AI-assisted data generation for portfolio and practice purposes. No confidential/proprietary company data used.
+
 This is an interactive Sales Dashboard that I created in Microsoft Excel to practice data analysis and dashboard design. The dashboard helps visualize sales performance using Pivot Tables, Pivot Charts, KPI cards, and slicers, making it easy to explore the data from different perspectives.
 
 ## Dashboard Includes
@@ -40,8 +41,6 @@ While building this dashboard, I improved my understanding of:
 ## Dashboard Preview
 
 <img width="959" height="543" alt="Sales_Analytics_Dashboard" src="https://github.com/user-attachments/assets/a7d19d36-3f15-4842-9fdd-352b4d4bb762" />
-
-- Total Sales
 
 ## Files
 
